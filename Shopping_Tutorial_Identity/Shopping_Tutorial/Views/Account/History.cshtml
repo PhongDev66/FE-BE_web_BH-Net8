@@ -1,0 +1,67 @@
+﻿@model IEnumerable<OrderModel>
+
+@{
+    ViewData["title"] = "List History Orders placed by " + " " + ViewBag.UserEmail;
+
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Index</title>
+</head>
+<body>
+    <h3>Đơn đặt hàng được đặt bởi @ViewBag.UserEmail</h3>
+
+    <table class="table" id="myTable">
+        <thead>
+            <tr>
+                <th>Id</th>
+                <th>Order Code</th>
+                <th>Shipping Cost</th>
+                <th>Coupon Code</th>
+                <th>UserName</th>
+                <th>Order Status</th>
+                <th>Created Date</th>
+                <th>Action</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var item in Model)
+            {
+                <tr>
+                    <td>@item.Id</td>
+                    <td>@item.OrderCode</td>
+                    <td>@item.ShippingCost.ToString("#,##0 VNĐ")</td>
+                    <td>@item.CouponCode</td>
+                    <td>@item.UserName</td>
+                    <td>
+                        @if (item.Status == 1)
+                        {
+                            <span class="text text-success">Đơn hàng mới</span>
+                        }
+                        else if (item.Status == 2)
+                        {
+                            <span class="text text-primary">Đã xử lý</span>
+                        }
+                        else{
+
+                            <span class="text text-danger">Đã hủy</span>
+                            }
+                        </td>
+                    <td>@item.CreatedDate.ToString("dd/MM/yyyy")</td>
+                    <td>
+                        @if (item.Status != 3){
+                            <a class="btn btn-danger btn-sm" onclick="return confirm('Xác nhận hủy đơn?')" asp-action="CancelOrder" asp-controller="Account" asp-route-ordercode="@item.OrderCode">Cancel Order</a>
+                        }
+
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+
+</body>
+</html>

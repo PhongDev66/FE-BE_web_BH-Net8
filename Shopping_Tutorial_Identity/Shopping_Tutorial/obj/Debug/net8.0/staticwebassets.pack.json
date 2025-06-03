@@ -1,0 +1,569 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\Lenovo\\source\\repos\\Back-End\\Shopping_Tutorial_Identity\\Shopping_Tutorial\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\Shopping_Tutorial.bundle.scp.css",
+      "PackagePath": "staticwebassets\\Shopping_Tutorial.5qquo52toa.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\source\\repos\\Back-End\\Shopping_Tutorial_Identity\\Shopping_Tutorial\\wwwroot\\backend\\js\\site.js",
+      "PackagePath": "staticwebassets\\backend\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\source\\repos\\Back-End\\Shopping_Tutorial_Identity\\Shopping_Tutorial\\wwwroot\\css\\animate.css",
+      "PackagePath": "staticwebassets\\css\\animate.css"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\source\\repos\\Back-End\\Shopping_Tutorial_Identity\\Shopping_Tutorial\\wwwroot\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\source\\repos\\Back-End\\Shopping_Tutorial_Identity\\Shopping_Tutorial\\wwwroot\\css\\font-awesome.min.css",
+      "PackagePath": "staticwebassets\\css\\font-awesome.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\source\\repos\\Back-End\\Shopping_Tutorial_Identity\\Shopping_Tutorial\\wwwroot\\css\\main.css",
+      "PackagePath": "staticwebassets\\css\\main.css"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\source\\repos\\Back-End\\Shopping_Tutorial_Identity\\Shopping_Tutorial\\wwwroot\\css\\prettyPhoto.css",
+      "PackagePath": "staticwebassets\\css\\prettyPhoto.css"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\source\\repos\\Back-End\\Shopping_Tutorial_Identity\\Shopping_Tutorial\\wwwroot\\css\\price-range.css",
+      "PackagePath": "staticwebassets\\css\\price-range.css"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\source\\repos\\Back-End\\Shopping_Tutorial_Identity\\Shopping_Tutorial\\wwwroot\\css\\responsive.css",
+      "PackagePath": "staticwebassets\\css\\responsive.css"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\source\\repos\\Back-End\\Shopping_Tutorial_Identity\\Shopping_Tutorial\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\source\\repos\\Back-End\\Shopping_Tutorial_Identity\\Shopping_Tutorial\\wwwroot\\images\\1.jpg",
+      "PackagePath": "staticwebassets\\images\\1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\source\\repos\\Back-End\\Shopping_Tutorial_Identity\\Shopping_Tutorial\\wwwroot\\images\\2.jpg",
+      "PackagePath": "staticwebassets\\images\\2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\source\\repos\\Back-End\\Shopping_Tutorial_Identity\\Shopping_Tutorial\\wwwroot\\images\\404.png",
+      "PackagePath": "staticwebassets\\images\\404.png"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\source\\repos\\Back-End\\Shopping_Tutorial_Identity\\Shopping_Tutorial\\wwwroot\\images\\LOGO1.jpg",
+      "PackagePath": "staticwebassets\\images\\LOGO1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\source\\repos\\Back-End\\Shopping_Tutorial_Identity\\Shopping_Tutorial\\wwwroot\\images\\gallery1.jpg",
+      "PackagePath": "staticwebassets\\images\\gallery1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\source\\repos\\Back-End\\Shopping_Tutorial_Identity\\Shopping_Tutorial\\wwwroot\\images\\home\\bg_border.png",
+      "PackagePath": "staticwebassets\\images\\home\\bg_border.png"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\source\\repos\\Back-End\\Shopping_Tutorial_Identity\\Shopping_Tutorial\\wwwroot\\images\\home\\gallery1.jpg",
+      "PackagePath": "staticwebassets\\images\\home\\gallery1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\source\\repos\\Back-End\\Shopping_Tutorial_Identity\\Shopping_Tutorial\\wwwroot\\images\\home\\gallery2.jpg",
+      "PackagePath": "staticwebassets\\images\\home\\gallery2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\source\\repos\\Back-End\\Shopping_Tutorial_Identity\\Shopping_Tutorial\\wwwroot\\images\\home\\gallery3.jpg",
+      "PackagePath": "staticwebassets\\images\\home\\gallery3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\source\\repos\\Back-End\\Shopping_Tutorial_Identity\\Shopping_Tutorial\\wwwroot\\images\\home\\gallery4.jpg",
+      "PackagePath": "staticwebassets\\images\\home\\gallery4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\source\\repos\\Back-End\\Shopping_Tutorial_Identity\\Shopping_Tutorial\\wwwroot\\images\\home\\girl1.jpg",
+      "PackagePath": "staticwebassets\\images\\home\\girl1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\source\\repos\\Back-End\\Shopping_Tutorial_Identity\\Shopping_Tutorial\\wwwroot\\images\\home\\girl2.jpg",
+      "PackagePath": "staticwebassets\\images\\home\\girl2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\source\\repos\\Back-End\\Shopping_Tutorial_Identity\\Shopping_Tutorial\\wwwroot\\images\\home\\girl3.jpg",
+      "PackagePath": "staticwebassets\\images\\home\\girl3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\source\\repos\\Back-End\\Shopping_Tutorial_Identity\\Shopping_Tutorial\\wwwroot\\images\\home\\iframe1.png",
+      "PackagePath": "staticwebassets\\images\\home\\iframe1.png"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\source\\repos\\Back-End\\Shopping_Tutorial_Identity\\Shopping_Tutorial\\wwwroot\\images\\home\\iframe2.png",
+      "PackagePath": "staticwebassets\\images\\home\\iframe2.png"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\source\\repos\\Back-End\\Shopping_Tutorial_Identity\\Shopping_Tutorial\\wwwroot\\images\\home\\iframe3.png",
+      "PackagePath": "staticwebassets\\images\\home\\iframe3.png"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\source\\repos\\Back-End\\Shopping_Tutorial_Identity\\Shopping_Tutorial\\wwwroot\\images\\home\\iframe4.png",
+      "PackagePath": "staticwebassets\\images\\home\\iframe4.png"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\source\\repos\\Back-End\\Shopping_Tutorial_Identity\\Shopping_Tutorial\\wwwroot\\images\\home\\logo.png",
+      "PackagePath": "staticwebassets\\images\\home\\logo.png"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\source\\repos\\Back-End\\Shopping_Tutorial_Identity\\Shopping_Tutorial\\wwwroot\\images\\home\\map.png",
+      "PackagePath": "staticwebassets\\images\\home\\map.png"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\source\\repos\\Back-End\\Shopping_Tutorial_Identity\\Shopping_Tutorial\\wwwroot\\images\\home\\new.png",
+      "PackagePath": "staticwebassets\\images\\home\\new.png"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\source\\repos\\Back-End\\Shopping_Tutorial_Identity\\Shopping_Tutorial\\wwwroot\\images\\home\\partner1.png",
+      "PackagePath": "staticwebassets\\images\\home\\partner1.png"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\source\\repos\\Back-End\\Shopping_Tutorial_Identity\\Shopping_Tutorial\\wwwroot\\images\\home\\partner2.png",
+      "PackagePath": "staticwebassets\\images\\home\\partner2.png"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\source\\repos\\Back-End\\Shopping_Tutorial_Identity\\Shopping_Tutorial\\wwwroot\\images\\home\\partner3.png",
+      "PackagePath": "staticwebassets\\images\\home\\partner3.png"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\source\\repos\\Back-End\\Shopping_Tutorial_Identity\\Shopping_Tutorial\\wwwroot\\images\\home\\partner4.png",
+      "PackagePath": "staticwebassets\\images\\home\\partner4.png"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\source\\repos\\Back-End\\Shopping_Tutorial_Identity\\Shopping_Tutorial\\wwwroot\\images\\home\\pricing.png",
+      "PackagePath": "staticwebassets\\images\\home\\pricing.png"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\source\\repos\\Back-End\\Shopping_Tutorial_Identity\\Shopping_Tutorial\\wwwroot\\images\\home\\product1.jpg",
+      "PackagePath": "staticwebassets\\images\\home\\product1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\source\\repos\\Back-End\\Shopping_Tutorial_Identity\\Shopping_Tutorial\\wwwroot\\images\\home\\product2.jpg",
+      "PackagePath": "staticwebassets\\images\\home\\product2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\source\\repos\\Back-End\\Shopping_Tutorial_Identity\\Shopping_Tutorial\\wwwroot\\images\\home\\product3.jpg",
+      "PackagePath": "staticwebassets\\images\\home\\product3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\source\\repos\\Back-End\\Shopping_Tutorial_Identity\\Shopping_Tutorial\\wwwroot\\images\\home\\product4.jpg",
+      "PackagePath": "staticwebassets\\images\\home\\product4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\source\\repos\\Back-End\\Shopping_Tutorial_Identity\\Shopping_Tutorial\\wwwroot\\images\\home\\product5.jpg",
+      "PackagePath": "staticwebassets\\images\\home\\product5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\source\\repos\\Back-End\\Shopping_Tutorial_Identity\\Shopping_Tutorial\\wwwroot\\images\\home\\product6.jpg",
+      "PackagePath": "staticwebassets\\images\\home\\product6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\source\\repos\\Back-End\\Shopping_Tutorial_Identity\\Shopping_Tutorial\\wwwroot\\images\\home\\recommend1.jpg",
+      "PackagePath": "staticwebassets\\images\\home\\recommend1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\source\\repos\\Back-End\\Shopping_Tutorial_Identity\\Shopping_Tutorial\\wwwroot\\images\\home\\recommend2.jpg",
+      "PackagePath": "staticwebassets\\images\\home\\recommend2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\source\\repos\\Back-End\\Shopping_Tutorial_Identity\\Shopping_Tutorial\\wwwroot\\images\\home\\recommend3.jpg",
+      "PackagePath": "staticwebassets\\images\\home\\recommend3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\source\\repos\\Back-End\\Shopping_Tutorial_Identity\\Shopping_Tutorial\\wwwroot\\images\\home\\sale.png",
+      "PackagePath": "staticwebassets\\images\\home\\sale.png"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\source\\repos\\Back-End\\Shopping_Tutorial_Identity\\Shopping_Tutorial\\wwwroot\\images\\home\\searchicon.png",
+      "PackagePath": "staticwebassets\\images\\home\\searchicon.png"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\source\\repos\\Back-End\\Shopping_Tutorial_Identity\\Shopping_Tutorial\\wwwroot\\images\\home\\shipping.jpg",
+      "PackagePath": "staticwebassets\\images\\home\\shipping.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\source\\repos\\Back-End\\Shopping_Tutorial_Identity\\Shopping_Tutorial\\wwwroot\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\source\\repos\\Back-End\\Shopping_Tutorial_Identity\\Shopping_Tutorial\\wwwroot\\js\\contact.js",
+      "PackagePath": "staticwebassets\\js\\contact.js"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\source\\repos\\Back-End\\Shopping_Tutorial_Identity\\Shopping_Tutorial\\wwwroot\\js\\gmaps.js",
+      "PackagePath": "staticwebassets\\js\\gmaps.js"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\source\\repos\\Back-End\\Shopping_Tutorial_Identity\\Shopping_Tutorial\\wwwroot\\js\\html5shiv.js",
+      "PackagePath": "staticwebassets\\js\\html5shiv.js"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\source\\repos\\Back-End\\Shopping_Tutorial_Identity\\Shopping_Tutorial\\wwwroot\\js\\jquery.js",
+      "PackagePath": "staticwebassets\\js\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\source\\repos\\Back-End\\Shopping_Tutorial_Identity\\Shopping_Tutorial\\wwwroot\\js\\jquery.prettyPhoto.js",
+      "PackagePath": "staticwebassets\\js\\jquery.prettyPhoto.js"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\source\\repos\\Back-End\\Shopping_Tutorial_Identity\\Shopping_Tutorial\\wwwroot\\js\\jquery.scrollUp.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery.scrollUp.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\source\\repos\\Back-End\\Shopping_Tutorial_Identity\\Shopping_Tutorial\\wwwroot\\js\\main.js",
+      "PackagePath": "staticwebassets\\js\\main.js"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\source\\repos\\Back-End\\Shopping_Tutorial_Identity\\Shopping_Tutorial\\wwwroot\\js\\price-range.js",
+      "PackagePath": "staticwebassets\\js\\price-range.js"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\source\\repos\\Back-End\\Shopping_Tutorial_Identity\\Shopping_Tutorial\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\source\\repos\\Back-End\\Shopping_Tutorial_Identity\\Shopping_Tutorial\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\source\\repos\\Back-End\\Shopping_Tutorial_Identity\\Shopping_Tutorial\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\source\\repos\\Back-End\\Shopping_Tutorial_Identity\\Shopping_Tutorial\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\source\\repos\\Back-End\\Shopping_Tutorial_Identity\\Shopping_Tutorial\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\source\\repos\\Back-End\\Shopping_Tutorial_Identity\\Shopping_Tutorial\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\source\\repos\\Back-End\\Shopping_Tutorial_Identity\\Shopping_Tutorial\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\source\\repos\\Back-End\\Shopping_Tutorial_Identity\\Shopping_Tutorial\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\source\\repos\\Back-End\\Shopping_Tutorial_Identity\\Shopping_Tutorial\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\source\\repos\\Back-End\\Shopping_Tutorial_Identity\\Shopping_Tutorial\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\source\\repos\\Back-End\\Shopping_Tutorial_Identity\\Shopping_Tutorial\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\source\\repos\\Back-End\\Shopping_Tutorial_Identity\\Shopping_Tutorial\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\source\\repos\\Back-End\\Shopping_Tutorial_Identity\\Shopping_Tutorial\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\source\\repos\\Back-End\\Shopping_Tutorial_Identity\\Shopping_Tutorial\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\source\\repos\\Back-End\\Shopping_Tutorial_Identity\\Shopping_Tutorial\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\source\\repos\\Back-End\\Shopping_Tutorial_Identity\\Shopping_Tutorial\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\source\\repos\\Back-End\\Shopping_Tutorial_Identity\\Shopping_Tutorial\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\source\\repos\\Back-End\\Shopping_Tutorial_Identity\\Shopping_Tutorial\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\source\\repos\\Back-End\\Shopping_Tutorial_Identity\\Shopping_Tutorial\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\source\\repos\\Back-End\\Shopping_Tutorial_Identity\\Shopping_Tutorial\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\source\\repos\\Back-End\\Shopping_Tutorial_Identity\\Shopping_Tutorial\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\source\\repos\\Back-End\\Shopping_Tutorial_Identity\\Shopping_Tutorial\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\source\\repos\\Back-End\\Shopping_Tutorial_Identity\\Shopping_Tutorial\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\source\\repos\\Back-End\\Shopping_Tutorial_Identity\\Shopping_Tutorial\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\source\\repos\\Back-End\\Shopping_Tutorial_Identity\\Shopping_Tutorial\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\source\\repos\\Back-End\\Shopping_Tutorial_Identity\\Shopping_Tutorial\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\source\\repos\\Back-End\\Shopping_Tutorial_Identity\\Shopping_Tutorial\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\source\\repos\\Back-End\\Shopping_Tutorial_Identity\\Shopping_Tutorial\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\source\\repos\\Back-End\\Shopping_Tutorial_Identity\\Shopping_Tutorial\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\source\\repos\\Back-End\\Shopping_Tutorial_Identity\\Shopping_Tutorial\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\source\\repos\\Back-End\\Shopping_Tutorial_Identity\\Shopping_Tutorial\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\source\\repos\\Back-End\\Shopping_Tutorial_Identity\\Shopping_Tutorial\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\source\\repos\\Back-End\\Shopping_Tutorial_Identity\\Shopping_Tutorial\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\source\\repos\\Back-End\\Shopping_Tutorial_Identity\\Shopping_Tutorial\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\source\\repos\\Back-End\\Shopping_Tutorial_Identity\\Shopping_Tutorial\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\source\\repos\\Back-End\\Shopping_Tutorial_Identity\\Shopping_Tutorial\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\source\\repos\\Back-End\\Shopping_Tutorial_Identity\\Shopping_Tutorial\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\source\\repos\\Back-End\\Shopping_Tutorial_Identity\\Shopping_Tutorial\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\source\\repos\\Back-End\\Shopping_Tutorial_Identity\\Shopping_Tutorial\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\source\\repos\\Back-End\\Shopping_Tutorial_Identity\\Shopping_Tutorial\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\source\\repos\\Back-End\\Shopping_Tutorial_Identity\\Shopping_Tutorial\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\source\\repos\\Back-End\\Shopping_Tutorial_Identity\\Shopping_Tutorial\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\source\\repos\\Back-End\\Shopping_Tutorial_Identity\\Shopping_Tutorial\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\source\\repos\\Back-End\\Shopping_Tutorial_Identity\\Shopping_Tutorial\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\source\\repos\\Back-End\\Shopping_Tutorial_Identity\\Shopping_Tutorial\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\source\\repos\\Back-End\\Shopping_Tutorial_Identity\\Shopping_Tutorial\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\source\\repos\\Back-End\\Shopping_Tutorial_Identity\\Shopping_Tutorial\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\source\\repos\\Back-End\\Shopping_Tutorial_Identity\\Shopping_Tutorial\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\source\\repos\\Back-End\\Shopping_Tutorial_Identity\\Shopping_Tutorial\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\source\\repos\\Back-End\\Shopping_Tutorial_Identity\\Shopping_Tutorial\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\source\\repos\\Back-End\\Shopping_Tutorial_Identity\\Shopping_Tutorial\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\source\\repos\\Back-End\\Shopping_Tutorial_Identity\\Shopping_Tutorial\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\source\\repos\\Back-End\\Shopping_Tutorial_Identity\\Shopping_Tutorial\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\source\\repos\\Back-End\\Shopping_Tutorial_Identity\\Shopping_Tutorial\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\source\\repos\\Back-End\\Shopping_Tutorial_Identity\\Shopping_Tutorial\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\source\\repos\\Back-End\\Shopping_Tutorial_Identity\\Shopping_Tutorial\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\source\\repos\\Back-End\\Shopping_Tutorial_Identity\\Shopping_Tutorial\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\source\\repos\\Back-End\\Shopping_Tutorial_Identity\\Shopping_Tutorial\\wwwroot\\media\\logo\\2be0f8d3-9b1e-41af-ac8f-c1e65dfecd53_LOGO1.jpg",
+      "PackagePath": "staticwebassets\\media\\logo\\2be0f8d3-9b1e-41af-ac8f-c1e65dfecd53_LOGO1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\source\\repos\\Back-End\\Shopping_Tutorial_Identity\\Shopping_Tutorial\\wwwroot\\media\\products\\09da62d2-2015-4b8b-85ab-71bdf5442b5d_iphone-16-pro-titan-tu-nhien.png",
+      "PackagePath": "staticwebassets\\media\\products\\09da62d2-2015-4b8b-85ab-71bdf5442b5d_iphone-16-pro-titan-tu-nhien.png"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\source\\repos\\Back-End\\Shopping_Tutorial_Identity\\Shopping_Tutorial\\wwwroot\\media\\products\\1d910abe-1a5b-4acc-82ef-2aff79468ed4_iphone-15-pro-max-gold-thumbnew-600x600.jpg",
+      "PackagePath": "staticwebassets\\media\\products\\1d910abe-1a5b-4acc-82ef-2aff79468ed4_iphone-15-pro-max-gold-thumbnew-600x600.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\source\\repos\\Back-End\\Shopping_Tutorial_Identity\\Shopping_Tutorial\\wwwroot\\media\\products\\20915dd2-7eff-416d-a871-e1130e06adad_iphone-12-xanh-la-new-2-600x600.jpg",
+      "PackagePath": "staticwebassets\\media\\products\\20915dd2-7eff-416d-a871-e1130e06adad_iphone-12-xanh-la-new-2-600x600.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\source\\repos\\Back-End\\Shopping_Tutorial_Identity\\Shopping_Tutorial\\wwwroot\\media\\products\\2790f13d-b475-453b-921a-45135c31263b_samsung-galaxy-s24-plus-violet-thumbnew-600x600.jpg",
+      "PackagePath": "staticwebassets\\media\\products\\2790f13d-b475-453b-921a-45135c31263b_samsung-galaxy-s24-plus-violet-thumbnew-600x600.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\source\\repos\\Back-End\\Shopping_Tutorial_Identity\\Shopping_Tutorial\\wwwroot\\media\\products\\28abfb6e-4472-48c0-a815-fa64102d7e78_iphone-16-plus-xanh-thumb-600x600.jpg",
+      "PackagePath": "staticwebassets\\media\\products\\28abfb6e-4472-48c0-a815-fa64102d7e78_iphone-16-plus-xanh-thumb-600x600.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\source\\repos\\Back-End\\Shopping_Tutorial_Identity\\Shopping_Tutorial\\wwwroot\\media\\products\\30e2b3c3-c69f-4ecc-bf04-c5603b9cc78c_iphone-13-xanh-la-thumb-new-600x600.jpg",
+      "PackagePath": "staticwebassets\\media\\products\\30e2b3c3-c69f-4ecc-bf04-c5603b9cc78c_iphone-13-xanh-la-thumb-new-600x600.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\source\\repos\\Back-End\\Shopping_Tutorial_Identity\\Shopping_Tutorial\\wwwroot\\media\\products\\39743d38-09c5-46b1-a696-717d7aa553be_samsung-galaxy-a55-5g-xanh-thumb-1-600x600.jpg",
+      "PackagePath": "staticwebassets\\media\\products\\39743d38-09c5-46b1-a696-717d7aa553be_samsung-galaxy-a55-5g-xanh-thumb-1-600x600.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\source\\repos\\Back-End\\Shopping_Tutorial_Identity\\Shopping_Tutorial\\wwwroot\\media\\products\\39898175-1b53-4edb-bbca-3c71e16ad1fe_iphone-16-plus-xanh-thumb-600x600.jpg",
+      "PackagePath": "staticwebassets\\media\\products\\39898175-1b53-4edb-bbca-3c71e16ad1fe_iphone-16-plus-xanh-thumb-600x600.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\source\\repos\\Back-End\\Shopping_Tutorial_Identity\\Shopping_Tutorial\\wwwroot\\media\\products\\3d5d75f3-2f71-49e9-8b18-d914bec867ff_1samsung-galaxy-s24-ultra-grey-thumbnew-600x600.jpg",
+      "PackagePath": "staticwebassets\\media\\products\\3d5d75f3-2f71-49e9-8b18-d914bec867ff_1samsung-galaxy-s24-ultra-grey-thumbnew-600x600.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\source\\repos\\Back-End\\Shopping_Tutorial_Identity\\Shopping_Tutorial\\wwwroot\\media\\products\\4e5bf1d1-d719-4327-88a7-4a6f5479e4fc_samsung-galaxy-z-fold6-xam-thumbn-600x600.jpg",
+      "PackagePath": "staticwebassets\\media\\products\\4e5bf1d1-d719-4327-88a7-4a6f5479e4fc_samsung-galaxy-z-fold6-xam-thumbn-600x600.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\source\\repos\\Back-End\\Shopping_Tutorial_Identity\\Shopping_Tutorial\\wwwroot\\media\\products\\9002b647-869b-442e-89d7-18b12c866877_iphone-16-pro-max-titan.png",
+      "PackagePath": "staticwebassets\\media\\products\\9002b647-869b-442e-89d7-18b12c866877_iphone-16-pro-max-titan.png"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\source\\repos\\Back-End\\Shopping_Tutorial_Identity\\Shopping_Tutorial\\wwwroot\\media\\products\\e9b0ec5f-4075-410d-bb93-2699330ac095_iPhone-14-thumb-tim-1-600x600.jpg",
+      "PackagePath": "staticwebassets\\media\\products\\e9b0ec5f-4075-410d-bb93-2699330ac095_iPhone-14-thumb-tim-1-600x600.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\source\\repos\\Back-End\\Shopping_Tutorial_Identity\\Shopping_Tutorial\\wwwroot\\media\\sliders\\12cf9a46-f799-4c15-8754-53bcf09e6e34_2642_ldp_bmwk_1920x620.png",
+      "PackagePath": "staticwebassets\\media\\sliders\\12cf9a46-f799-4c15-8754-53bcf09e6e34_2642_ldp_bmwk_1920x620.png"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\source\\repos\\Back-End\\Shopping_Tutorial_Identity\\Shopping_Tutorial\\wwwroot\\media\\sliders\\1ba4cf7d-6bd3-445a-a5de-24e8e6dca289_banner1.jpg",
+      "PackagePath": "staticwebassets\\media\\sliders\\1ba4cf7d-6bd3-445a-a5de-24e8e6dca289_banner1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\source\\repos\\Back-End\\Shopping_Tutorial_Identity\\Shopping_Tutorial\\wwwroot\\media\\sliders\\45be65d9-41a5-4f22-b295-b23b7f24c41a_banner2.jpg",
+      "PackagePath": "staticwebassets\\media\\sliders\\45be65d9-41a5-4f22-b295-b23b7f24c41a_banner2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\source\\repos\\Back-End\\Shopping_Tutorial_Identity\\Shopping_Tutorial\\wwwroot\\media\\sliders\\6464ccb8-5c24-4330-a891-a5e1eb30fdda_banner.png",
+      "PackagePath": "staticwebassets\\media\\sliders\\6464ccb8-5c24-4330-a891-a5e1eb30fdda_banner.png"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\source\\repos\\Back-End\\Shopping_Tutorial_Identity\\Shopping_Tutorial\\wwwroot\\media\\sliders\\67816319-fa8b-4f4a-8015-690f5c017150_slide1.jpg",
+      "PackagePath": "staticwebassets\\media\\sliders\\67816319-fa8b-4f4a-8015-690f5c017150_slide1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\source\\repos\\Back-End\\Shopping_Tutorial_Identity\\Shopping_Tutorial\\wwwroot\\media\\sliders\\7b54e9e9-728f-497f-aa18-89f59521f166_slide23.png",
+      "PackagePath": "staticwebassets\\media\\sliders\\7b54e9e9-728f-497f-aa18-89f59521f166_slide23.png"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\source\\repos\\Back-End\\Shopping_Tutorial_Identity\\Shopping_Tutorial\\wwwroot\\media\\sliders\\b99d3b98-7a46-41f7-924c-7a9fee047fab_Black-Myth-Wukong_2024_06-07-24_005.jpg",
+      "PackagePath": "staticwebassets\\media\\sliders\\b99d3b98-7a46-41f7-924c-7a9fee047fab_Black-Myth-Wukong_2024_06-07-24_005.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\source\\repos\\Back-End\\Shopping_Tutorial_Identity\\Shopping_Tutorial\\wwwroot\\media\\sliders\\c76c3ee5-1cce-4fe1-8576-923ed5ae0233_Black-Myth-Wukong-banner.jpg",
+      "PackagePath": "staticwebassets\\media\\sliders\\c76c3ee5-1cce-4fe1-8576-923ed5ae0233_Black-Myth-Wukong-banner.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\source\\repos\\Back-End\\Shopping_Tutorial_Identity\\Shopping_Tutorial\\wwwroot\\media\\sliders\\cb304382-c60e-4970-9d30-41799ae1c6b8_slide1.jpg",
+      "PackagePath": "staticwebassets\\media\\sliders\\cb304382-c60e-4970-9d30-41799ae1c6b8_slide1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\source\\repos\\Back-End\\Shopping_Tutorial_Identity\\Shopping_Tutorial\\wwwroot\\media\\sliders\\cf7380cd-bdb1-4379-b934-6dfb6d6ab4f5_banner3.jpg",
+      "PackagePath": "staticwebassets\\media\\sliders\\cf7380cd-bdb1-4379-b934-6dfb6d6ab4f5_banner3.jpg"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.Shopping_Tutorial.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.Shopping_Tutorial.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.Shopping_Tutorial.props",
+      "PackagePath": "build\\Shopping_Tutorial.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.Shopping_Tutorial.props",
+      "PackagePath": "buildMultiTargeting\\Shopping_Tutorial.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.Shopping_Tutorial.props",
+      "PackagePath": "buildTransitive\\Shopping_Tutorial.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

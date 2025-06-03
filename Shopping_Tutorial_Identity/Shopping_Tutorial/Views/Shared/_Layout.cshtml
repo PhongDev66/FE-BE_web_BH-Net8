@@ -1,0 +1,185 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<meta name="description" content="">
+	<meta name="author" content="">
+	<title>@ViewData["Title"]</title>
+	<link href="~/css/bootstrap.min.css" rel="stylesheet">
+	<link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.0.1/css/font-awesome.css" rel="stylesheet">
+	<link href="https://cdn.jsdelivr.net/npm/sweetalert2@11.12.4/dist/sweetalert2.min.css" rel="stylesheet">
+
+	<link href="~/css/prettyPhoto.css" rel="stylesheet">
+	<link href="~/css/price-range.css" rel="stylesheet">
+	<link href="~/css/animate.css" rel="stylesheet">
+	<link href="~/css/main.css" rel="stylesheet">
+	<link href="~/css/responsive.css" rel="stylesheet">
+	<link rel="stylesheet" href="https://code.jquery.com/ui/1.14.0/themes/base/jquery-ui.css">
+	<!--[if lt IE 9]>
+	<script src="js/html5shiv.js"></script>
+	<script src="js/respond.min.js"></script>
+	<![endif]-->
+	<link rel="shortcut icon" href="images/ico/favicon.ico">
+	<link rel="apple-touch-icon-precomposed" sizes="144x144" href="images/ico/apple-touch-icon-144-precomposed.png">
+	<link rel="apple-touch-icon-precomposed" sizes="114x114" href="images/ico/apple-touch-icon-114-precomposed.png">
+	<link rel="apple-touch-icon-precomposed" sizes="72x72" href="images/ico/apple-touch-icon-72-precomposed.png">
+	<link rel="apple-touch-icon-precomposed" href="images/ico/apple-touch-icon-57-precomposed.png">
+
+</head><!--/head-->
+
+<body>
+	<header id="header">
+		<!--header-->
+		<div class="header_top">
+			<!--header_top-->
+			<div class="container">
+				<div class="row">
+					<div class="col-sm-6">
+						<div class="contactinfo">
+							<ul class="nav nav-pills">
+								<li><a href="#"><i class="fa fa-phone"></i> 0383684321</a></li>
+								<li><a href="#"><i class="fa fa-envelope"></i> Danhphong200412@gmail.com</a></li>
+							</ul>
+						</div>
+					</div>
+					<div class="col-sm-6">
+						<div class="social-icons pull-right">
+							<ul class="nav navbar-nav">
+								<li><a href="#"><i class="fa fa-facebook"></i></a></li>
+								<li><a href="#"><i class="fa fa-twitter"></i></a></li>
+								<li><a href="#"><i class="fa fa-linkedin"></i></a></li>
+								
+							</ul>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div><!--/header_top-->
+
+		<div class="header-middle">
+			<!--header-middle-->
+			<div class="container">
+				<div class="row">
+					<div class="col-sm-3">
+						<h4>Shop Mobile</h4>
+						<div class="btn-group pull-right">
+							
+						</div>
+					</div>
+					<div class="col-sm-9">
+						<div class="shop-menu pull-right">
+							<ul class="nav navbar-nav">
+
+
+								<li><a asp-action="Index" asp-controller="Cart"><i class="bi bi-bag-plus-fill"></i> Giỏ Hàng</a></li>
+
+								@if (User.Identity?.IsAuthenticated ?? false)
+								{
+									<li><a asp-action="Index" asp-controller="Cart"><i class="fa fa-crosshairs"></i> Thanh Toán</a></li>
+									<li><a asp-action="History" asp-controller="Account"><i class="bi bi-bag-check-fill"></i> Đơn Hàng</a></li>
+									<li><a asp-action="Wishlist" asp-controller="Home"><i class="bi bi-bag-heart-fill"></i> Yêu Thích</a></li>
+									<li><a asp-action="Compare" asp-controller="Home"><i class="fa fa-star"></i> So Sánh</a></li>
+									<li><a asp-controller="Product" asp-action="Index" asp-area="Admin"><i class="bi bi-person-fill-lock"></i> Quản Lý</a></li>
+									<li><a asp-controller="Account" asp-action="Logout"><i class="bi bi-box-arrow-right"></i> Hi @User.Identity.Name Đăng Xuất </a></li>
+								}
+								else
+								{
+									<li><a asp-controller="Account" asp-action="Login"><i class="fa fa-lock"></i>Đăng Nhập</a></li>
+								}
+
+
+							</ul>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div><!--/header-middle-->
+
+		<div class="header-bottom">
+			<!--header-bottom-->
+			<div class="container">
+				<div class="row">
+					<div class="col-sm-9">
+						<div class="navbar-header">
+							<button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+								<span class="sr-only">Toggle navigation</span>
+								<span class="icon-bar"></span>
+								<span class="icon-bar"></span>
+								<span class="icon-bar"></span>
+							</button>
+						</div>
+						<div class="mainmenu pull-left">
+							<ul class="nav navbar-nav collapse navbar-collapse">
+								<li><a asp-action="index" asp-controller="Home" @* class="active" *@>Trang Chủ</a></li>
+								<li class="dropdown">
+									<a href="#">Sản Phẩm</a>
+								</li>
+								@* <li class="dropdown">
+									<a href="#">Blog<i class="fa fa-angle-down"></i></a>
+									 <ul role="menu" class="sub-menu">
+										<li><a href="blog.html">Blog List</a></li>
+										<li><a href="blog-single.html">Blog Single</a></li>
+									</ul> 
+								</li> *@
+
+								<li><a asp-controller="Home" asp-action="Contact">Liên Hệ</a></li>
+							</ul>
+						</div>
+					</div>
+					<div class="col-sm-3">
+						<form asp-controller="Product" asp-action="Search" method="post">
+							<div class="search_box pull-right">
+								<input type="text" placeholder="Search..." name="searchTerm" />
+								<button class="btn btn-success" type="submit">Tìm Kiếm</button>
+
+							</div>
+						</form>
+					</div>
+				</div>
+			</div>
+		</div><!--/header-bottom-->
+	</header><!--/header-->
+	
+	<section>
+		<div class="container">
+			<div class="row">
+				<partial name="_NotificationPartial" />
+				@RenderBody()
+			</div>
+		</div>
+	</section>
+
+	<div class="policy-item" id="policy2"> <div class="container"> <div class="row-policy"> <div class="col-md-3 col-sm-3"> <div class="pi-wrap"> <i class="fa fa-plane" aria-hidden="true"></i> <h4>THANH TOÁN &amp; GIAO HÀNG</h4> <p>Miễn phí vận chuyển cho đơn hàng trên 399.000 VNĐ<br> - Giao hàng và thu tiền tận nơi <br> - Chuyển khoản và giao hàng <br> - Mua hàng tại shop</p> </div> </div> <div class="col-md-3 col-sm-3"> <div class="pi-wrap"> <i class="fa fa-credit-card" aria-hidden="true"></i> <h4>THẺ THÀNH VIÊN</h4> <p>Chế độ ưu đãi thành viên VIP: <br> - 5% cho thành viên Bạc <br> - 10% cho thành viên Vàng<br> - 15% cho thành viên Kim cương</p> </div> </div> <div class="col-md-3 col-sm-3"> <div class="pi-wrap"> <i class="fa fa-clock-o"></i> <h4>GIỜ MỞ CỬA<span></span></h4> <p><strong>8h30 đến 22:00</strong><br> - Tất cả các ngày trong tuần<br> - Áp dụng cho tất cả các chi nhánh hệ thống cửa hàng 4MEN</p> </div> </div> <div class="col-md-3 col-sm-3"> <div class="pi-wrap"> <i class="fa fa-headphones"></i> <h4>Hỗ trợ 24/7</h4> <p>Gọi ngay cho chúng tôi khi bạn có thắc mắc<br> - 0868.444.644</p> </div> </div> </div> </div> </div>
+
+	<footer id="footer">
+		<!--Footer-->
+		<partial name="_FooterPartial" />
+
+		<div class="footer-bottom">
+			<div class="container">
+				<div class="row">
+					<p class="pull-left">Copyright © 2024 </p>
+				</div>
+			</div>
+		</div>
+
+	</footer><!--/Footer-->
+
+
+
+	<script src="~/js/jquery.js"></script>
+	<script src="~/js/bootstrap.min.js"></script>
+	<script src="~/js/jquery.scrollUp.min.js"></script>
+	<script src="~/js/price-range.js"></script>
+	<script src="~/js/jquery.prettyPhoto.js"></script>
+	<script src="~/js/main.js"></script>
+	<div id="fb-root"></div>
+	<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/font/bootstrap-icons.min.css">
+	<script async defer crossorigin="anonymous" src="https://connect.facebook.net/vi_VN/sdk.js#xfbml=1&version=v20.0&appId=6125793717446054" nonce="JYxicUjw"></script>
+	<!--Thong bao-->
+	<script src="https://cdn.jsdelivr.net/npm/sweetalert2@11.12.4/dist/sweetalert2.all.min.js"></script>
+	@await RenderSectionAsync("Scripts", required: false)
+
+</body>
+</html>

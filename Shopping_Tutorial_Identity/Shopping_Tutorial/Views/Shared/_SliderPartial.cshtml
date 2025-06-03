@@ -1,0 +1,73 @@
+﻿@{
+	int index = 0;
+}
+<style>
+	.carousel-inner {
+		width: 100%;
+		max-height: 400px !important;
+		
+	}
+	.carousel-inner img {
+			width: 100%;
+			height: 400px; /* Hoặc bạn có thể đặt height: 400px để ảnh có chiều cao cố định */
+			object-fit: cover; /* Giúp ảnh không bị biến dạng */
+	}
+	.control-carousel {
+		position: absolute; /* Đặt vị trí tuyệt đối để dễ dàng căn giữa */
+			top: 50%; /* Căn giữa theo chiều dọc */
+			transform: translateY(-50%); /* Đẩy lên một nửa chiều cao của nút để thực sự căn giữa */
+			z-index: 1000; /* Đảm bảo nút nằm trên cùng các phần tử khác */
+		}
+
+	.left.control-carousel {
+		left: 15px; /* Đặt khoảng cách từ bên trái */
+	}
+
+	.right.control-carousel {
+		right: 15px; /* Đặt khoảng cách từ bên phải */
+	}
+</style>
+<section id="slider">
+	<!--slider-->
+	<div class="container">
+		<div class="row">
+			<div class="col-sm-12">
+				<div id="slider-carousel" class="carousel slide" data-ride="carousel">
+					<ol class="carousel-indicators">
+						<li data-target="#slider-carousel" data-slide-to="0" class="active"></li>
+						<li data-target="#slider-carousel" data-slide-to="1"></li>
+						<li data-target="#slider-carousel" data-slide-to="2"></li>
+					</ol>
+
+					<div class="carousel-inner">
+						 @foreach (var slider in ViewBag.Sliders)
+						{
+							<div class="item @(index == 0 ? "active" : "")">
+								
+								<div class="col-sm-12">
+									<img src="~/media/sliders/@slider.Image" class="girl img-responsive" alt="" />
+									
+								</div>
+							</div>
+							index++;
+						}
+					</div>
+
+				
+				</div>
+
+			</div>
+		</div>
+	</div>
+</section><!--/slider-->
+
+
+
+
+
+@* <a href="#slider-carousel" class="left control-carousel hidden-xs" data-slide="prev">
+						<i class="fa fa-angle-left"></i>
+					</a>
+					<a href="#slider-carousel" class="right control-carousel hidden-xs" data-slide="next">
+						<i class="fa fa-angle-right"></i>
+	</a> *@

@@ -1,0 +1,553 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Lenovo\\source\\repos\\Back-End\\Shopping_Tutorial_Identity\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CDAEFFC2-0E18-485F-9101-8D21B91B65AD}|Shopping_Tutorial\\Shopping_Tutorial.csproj|c:\\users\\lenovo\\source\\repos\\back-end\\shopping_tutorial_identity\\shopping_tutorial\\views\\product\\search.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CDAEFFC2-0E18-485F-9101-8D21B91B65AD}|Shopping_Tutorial\\Shopping_Tutorial.csproj|solutionrelative:shopping_tutorial\\views\\product\\search.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDAEFFC2-0E18-485F-9101-8D21B91B65AD}|Shopping_Tutorial\\Shopping_Tutorial.csproj|c:\\users\\lenovo\\source\\repos\\back-end\\shopping_tutorial_identity\\shopping_tutorial\\areas\\admin\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CDAEFFC2-0E18-485F-9101-8D21B91B65AD}|Shopping_Tutorial\\Shopping_Tutorial.csproj|solutionrelative:shopping_tutorial\\areas\\admin\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDAEFFC2-0E18-485F-9101-8D21B91B65AD}|Shopping_Tutorial\\Shopping_Tutorial.csproj|c:\\users\\lenovo\\source\\repos\\back-end\\shopping_tutorial_identity\\shopping_tutorial\\areas\\admin\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CDAEFFC2-0E18-485F-9101-8D21B91B65AD}|Shopping_Tutorial\\Shopping_Tutorial.csproj|solutionrelative:shopping_tutorial\\areas\\admin\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDAEFFC2-0E18-485F-9101-8D21B91B65AD}|Shopping_Tutorial\\Shopping_Tutorial.csproj|c:\\users\\lenovo\\source\\repos\\back-end\\shopping_tutorial_identity\\shopping_tutorial\\models\\ordermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CDAEFFC2-0E18-485F-9101-8D21B91B65AD}|Shopping_Tutorial\\Shopping_Tutorial.csproj|solutionrelative:shopping_tutorial\\models\\ordermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDAEFFC2-0E18-485F-9101-8D21B91B65AD}|Shopping_Tutorial\\Shopping_Tutorial.csproj|c:\\users\\lenovo\\source\\repos\\back-end\\shopping_tutorial_identity\\shopping_tutorial\\models\\orderinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CDAEFFC2-0E18-485F-9101-8D21B91B65AD}|Shopping_Tutorial\\Shopping_Tutorial.csproj|solutionrelative:shopping_tutorial\\models\\orderinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDAEFFC2-0E18-485F-9101-8D21B91B65AD}|Shopping_Tutorial\\Shopping_Tutorial.csproj|c:\\users\\lenovo\\source\\repos\\back-end\\shopping_tutorial_identity\\shopping_tutorial\\areas\\admin\\views\\order\\vieworder.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CDAEFFC2-0E18-485F-9101-8D21B91B65AD}|Shopping_Tutorial\\Shopping_Tutorial.csproj|solutionrelative:shopping_tutorial\\areas\\admin\\views\\order\\vieworder.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDAEFFC2-0E18-485F-9101-8D21B91B65AD}|Shopping_Tutorial\\Shopping_Tutorial.csproj|c:\\users\\lenovo\\source\\repos\\back-end\\shopping_tutorial_identity\\shopping_tutorial\\areas\\admin\\views\\order\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CDAEFFC2-0E18-485F-9101-8D21B91B65AD}|Shopping_Tutorial\\Shopping_Tutorial.csproj|solutionrelative:shopping_tutorial\\areas\\admin\\views\\order\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDAEFFC2-0E18-485F-9101-8D21B91B65AD}|Shopping_Tutorial\\Shopping_Tutorial.csproj|c:\\users\\lenovo\\source\\repos\\back-end\\shopping_tutorial_identity\\shopping_tutorial\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CDAEFFC2-0E18-485F-9101-8D21B91B65AD}|Shopping_Tutorial\\Shopping_Tutorial.csproj|solutionrelative:shopping_tutorial\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDAEFFC2-0E18-485F-9101-8D21B91B65AD}|Shopping_Tutorial\\Shopping_Tutorial.csproj|c:\\users\\lenovo\\source\\repos\\back-end\\shopping_tutorial_identity\\shopping_tutorial\\views\\product\\detail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CDAEFFC2-0E18-485F-9101-8D21B91B65AD}|Shopping_Tutorial\\Shopping_Tutorial.csproj|solutionrelative:shopping_tutorial\\views\\product\\detail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDAEFFC2-0E18-485F-9101-8D21B91B65AD}|Shopping_Tutorial\\Shopping_Tutorial.csproj|c:\\users\\lenovo\\source\\repos\\back-end\\shopping_tutorial_identity\\shopping_tutorial\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CDAEFFC2-0E18-485F-9101-8D21B91B65AD}|Shopping_Tutorial\\Shopping_Tutorial.csproj|solutionrelative:shopping_tutorial\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDAEFFC2-0E18-485F-9101-8D21B91B65AD}|Shopping_Tutorial\\Shopping_Tutorial.csproj|c:\\users\\lenovo\\source\\repos\\back-end\\shopping_tutorial_identity\\shopping_tutorial\\areas\\admin\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CDAEFFC2-0E18-485F-9101-8D21B91B65AD}|Shopping_Tutorial\\Shopping_Tutorial.csproj|solutionrelative:shopping_tutorial\\areas\\admin\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDAEFFC2-0E18-485F-9101-8D21B91B65AD}|Shopping_Tutorial\\Shopping_Tutorial.csproj|c:\\users\\lenovo\\source\\repos\\back-end\\shopping_tutorial_identity\\shopping_tutorial\\areas\\admin\\views\\product\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CDAEFFC2-0E18-485F-9101-8D21B91B65AD}|Shopping_Tutorial\\Shopping_Tutorial.csproj|solutionrelative:shopping_tutorial\\areas\\admin\\views\\product\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDAEFFC2-0E18-485F-9101-8D21B91B65AD}|Shopping_Tutorial\\Shopping_Tutorial.csproj|c:\\users\\lenovo\\source\\repos\\back-end\\shopping_tutorial_identity\\shopping_tutorial\\areas\\admin\\views\\product\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CDAEFFC2-0E18-485F-9101-8D21B91B65AD}|Shopping_Tutorial\\Shopping_Tutorial.csproj|solutionrelative:shopping_tutorial\\areas\\admin\\views\\product\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDAEFFC2-0E18-485F-9101-8D21B91B65AD}|Shopping_Tutorial\\Shopping_Tutorial.csproj|c:\\users\\lenovo\\source\\repos\\back-end\\shopping_tutorial_identity\\shopping_tutorial\\areas\\admin\\views\\product\\addquantity.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CDAEFFC2-0E18-485F-9101-8D21B91B65AD}|Shopping_Tutorial\\Shopping_Tutorial.csproj|solutionrelative:shopping_tutorial\\areas\\admin\\views\\product\\addquantity.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDAEFFC2-0E18-485F-9101-8D21B91B65AD}|Shopping_Tutorial\\Shopping_Tutorial.csproj|c:\\users\\lenovo\\source\\repos\\back-end\\shopping_tutorial_identity\\shopping_tutorial\\areas\\admin\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CDAEFFC2-0E18-485F-9101-8D21B91B65AD}|Shopping_Tutorial\\Shopping_Tutorial.csproj|solutionrelative:shopping_tutorial\\areas\\admin\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDAEFFC2-0E18-485F-9101-8D21B91B65AD}|Shopping_Tutorial\\Shopping_Tutorial.csproj|c:\\users\\lenovo\\source\\repos\\back-end\\shopping_tutorial_identity\\shopping_tutorial\\areas\\admin\\controllers\\contactcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CDAEFFC2-0E18-485F-9101-8D21B91B65AD}|Shopping_Tutorial\\Shopping_Tutorial.csproj|solutionrelative:shopping_tutorial\\areas\\admin\\controllers\\contactcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDAEFFC2-0E18-485F-9101-8D21B91B65AD}|Shopping_Tutorial\\Shopping_Tutorial.csproj|c:\\users\\lenovo\\source\\repos\\back-end\\shopping_tutorial_identity\\shopping_tutorial\\areas\\admin\\controllers\\couponcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CDAEFFC2-0E18-485F-9101-8D21B91B65AD}|Shopping_Tutorial\\Shopping_Tutorial.csproj|solutionrelative:shopping_tutorial\\areas\\admin\\controllers\\couponcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDAEFFC2-0E18-485F-9101-8D21B91B65AD}|Shopping_Tutorial\\Shopping_Tutorial.csproj|c:\\users\\lenovo\\source\\repos\\back-end\\shopping_tutorial_identity\\shopping_tutorial\\areas\\admin\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CDAEFFC2-0E18-485F-9101-8D21B91B65AD}|Shopping_Tutorial\\Shopping_Tutorial.csproj|solutionrelative:shopping_tutorial\\areas\\admin\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDAEFFC2-0E18-485F-9101-8D21B91B65AD}|Shopping_Tutorial\\Shopping_Tutorial.csproj|c:\\users\\lenovo\\source\\repos\\back-end\\shopping_tutorial_identity\\shopping_tutorial\\areas\\admin\\controllers\\rolecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CDAEFFC2-0E18-485F-9101-8D21B91B65AD}|Shopping_Tutorial\\Shopping_Tutorial.csproj|solutionrelative:shopping_tutorial\\areas\\admin\\controllers\\rolecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDAEFFC2-0E18-485F-9101-8D21B91B65AD}|Shopping_Tutorial\\Shopping_Tutorial.csproj|c:\\users\\lenovo\\source\\repos\\back-end\\shopping_tutorial_identity\\shopping_tutorial\\areas\\admin\\controllers\\shippingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CDAEFFC2-0E18-485F-9101-8D21B91B65AD}|Shopping_Tutorial\\Shopping_Tutorial.csproj|solutionrelative:shopping_tutorial\\areas\\admin\\controllers\\shippingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDAEFFC2-0E18-485F-9101-8D21B91B65AD}|Shopping_Tutorial\\Shopping_Tutorial.csproj|c:\\users\\lenovo\\source\\repos\\back-end\\shopping_tutorial_identity\\shopping_tutorial\\areas\\admin\\controllers\\slidercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CDAEFFC2-0E18-485F-9101-8D21B91B65AD}|Shopping_Tutorial\\Shopping_Tutorial.csproj|solutionrelative:shopping_tutorial\\areas\\admin\\controllers\\slidercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDAEFFC2-0E18-485F-9101-8D21B91B65AD}|Shopping_Tutorial\\Shopping_Tutorial.csproj|c:\\users\\lenovo\\source\\repos\\back-end\\shopping_tutorial_identity\\shopping_tutorial\\areas\\admin\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CDAEFFC2-0E18-485F-9101-8D21B91B65AD}|Shopping_Tutorial\\Shopping_Tutorial.csproj|solutionrelative:shopping_tutorial\\areas\\admin\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDAEFFC2-0E18-485F-9101-8D21B91B65AD}|Shopping_Tutorial\\Shopping_Tutorial.csproj|c:\\users\\lenovo\\source\\repos\\back-end\\shopping_tutorial_identity\\shopping_tutorial\\areas\\admin\\controllers\\brandcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CDAEFFC2-0E18-485F-9101-8D21B91B65AD}|Shopping_Tutorial\\Shopping_Tutorial.csproj|solutionrelative:shopping_tutorial\\areas\\admin\\controllers\\brandcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDAEFFC2-0E18-485F-9101-8D21B91B65AD}|Shopping_Tutorial\\Shopping_Tutorial.csproj|c:\\users\\lenovo\\source\\repos\\back-end\\shopping_tutorial_identity\\shopping_tutorial\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CDAEFFC2-0E18-485F-9101-8D21B91B65AD}|Shopping_Tutorial\\Shopping_Tutorial.csproj|solutionrelative:shopping_tutorial\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDAEFFC2-0E18-485F-9101-8D21B91B65AD}|Shopping_Tutorial\\Shopping_Tutorial.csproj|c:\\users\\lenovo\\source\\repos\\back-end\\shopping_tutorial_identity\\shopping_tutorial\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CDAEFFC2-0E18-485F-9101-8D21B91B65AD}|Shopping_Tutorial\\Shopping_Tutorial.csproj|solutionrelative:shopping_tutorial\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDAEFFC2-0E18-485F-9101-8D21B91B65AD}|Shopping_Tutorial\\Shopping_Tutorial.csproj|c:\\users\\lenovo\\source\\repos\\back-end\\shopping_tutorial_identity\\shopping_tutorial\\areas\\admin\\repository\\momo\\iemailsender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CDAEFFC2-0E18-485F-9101-8D21B91B65AD}|Shopping_Tutorial\\Shopping_Tutorial.csproj|solutionrelative:shopping_tutorial\\areas\\admin\\repository\\momo\\iemailsender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDAEFFC2-0E18-485F-9101-8D21B91B65AD}|Shopping_Tutorial\\Shopping_Tutorial.csproj|c:\\users\\lenovo\\source\\repos\\back-end\\shopping_tutorial_identity\\shopping_tutorial\\areas\\admin\\repository\\momo\\emailsender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CDAEFFC2-0E18-485F-9101-8D21B91B65AD}|Shopping_Tutorial\\Shopping_Tutorial.csproj|solutionrelative:shopping_tutorial\\areas\\admin\\repository\\momo\\emailsender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDAEFFC2-0E18-485F-9101-8D21B91B65AD}|Shopping_Tutorial\\Shopping_Tutorial.csproj|c:\\users\\lenovo\\source\\repos\\back-end\\shopping_tutorial_identity\\shopping_tutorial\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CDAEFFC2-0E18-485F-9101-8D21B91B65AD}|Shopping_Tutorial\\Shopping_Tutorial.csproj|solutionrelative:shopping_tutorial\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDAEFFC2-0E18-485F-9101-8D21B91B65AD}|Shopping_Tutorial\\Shopping_Tutorial.csproj|c:\\users\\lenovo\\source\\repos\\back-end\\shopping_tutorial_identity\\shopping_tutorial\\wwwroot\\css\\main.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{CDAEFFC2-0E18-485F-9101-8D21B91B65AD}|Shopping_Tutorial\\Shopping_Tutorial.csproj|solutionrelative:shopping_tutorial\\wwwroot\\css\\main.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDAEFFC2-0E18-485F-9101-8D21B91B65AD}|Shopping_Tutorial\\Shopping_Tutorial.csproj|c:\\users\\lenovo\\source\\repos\\back-end\\shopping_tutorial_identity\\shopping_tutorial\\views\\shared\\_sidebarpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CDAEFFC2-0E18-485F-9101-8D21B91B65AD}|Shopping_Tutorial\\Shopping_Tutorial.csproj|solutionrelative:shopping_tutorial\\views\\shared\\_sidebarpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDAEFFC2-0E18-485F-9101-8D21B91B65AD}|Shopping_Tutorial\\Shopping_Tutorial.csproj|c:\\users\\lenovo\\source\\repos\\back-end\\shopping_tutorial_identity\\shopping_tutorial\\views\\shared\\components\\brands\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CDAEFFC2-0E18-485F-9101-8D21B91B65AD}|Shopping_Tutorial\\Shopping_Tutorial.csproj|solutionrelative:shopping_tutorial\\views\\shared\\components\\brands\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDAEFFC2-0E18-485F-9101-8D21B91B65AD}|Shopping_Tutorial\\Shopping_Tutorial.csproj|c:\\users\\lenovo\\source\\repos\\back-end\\shopping_tutorial_identity\\shopping_tutorial\\views\\shared\\components\\categories\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CDAEFFC2-0E18-485F-9101-8D21B91B65AD}|Shopping_Tutorial\\Shopping_Tutorial.csproj|solutionrelative:shopping_tutorial\\views\\shared\\components\\categories\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 10,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "OrderModel.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\Back-End\\Shopping_Tutorial_Identity\\Shopping_Tutorial\\Models\\OrderModel.cs",
+              "RelativeDocumentMoniker": "Shopping_Tutorial\\Models\\OrderModel.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\Back-End\\Shopping_Tutorial_Identity\\Shopping_Tutorial\\Models\\OrderModel.cs",
+              "RelativeToolTip": "Shopping_Tutorial\\Models\\OrderModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-17T13:15:51.583Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "OrderInfo.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\Back-End\\Shopping_Tutorial_Identity\\Shopping_Tutorial\\Models\\OrderInfo.cs",
+              "RelativeDocumentMoniker": "Shopping_Tutorial\\Models\\OrderInfo.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\Back-End\\Shopping_Tutorial_Identity\\Shopping_Tutorial\\Models\\OrderInfo.cs",
+              "RelativeToolTip": "Shopping_Tutorial\\Models\\OrderInfo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-17T13:15:50.461Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ViewOrder.cshtml",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\Back-End\\Shopping_Tutorial_Identity\\Shopping_Tutorial\\Areas\\Admin\\Views\\Order\\ViewOrder.cshtml",
+              "RelativeDocumentMoniker": "Shopping_Tutorial\\Areas\\Admin\\Views\\Order\\ViewOrder.cshtml",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\Back-End\\Shopping_Tutorial_Identity\\Shopping_Tutorial\\Areas\\Admin\\Views\\Order\\ViewOrder.cshtml",
+              "RelativeToolTip": "Shopping_Tutorial\\Areas\\Admin\\Views\\Order\\ViewOrder.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-17T13:14:21.8Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\Back-End\\Shopping_Tutorial_Identity\\Shopping_Tutorial\\Areas\\Admin\\Views\\Order\\Index.cshtml",
+              "RelativeDocumentMoniker": "Shopping_Tutorial\\Areas\\Admin\\Views\\Order\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\Back-End\\Shopping_Tutorial_Identity\\Shopping_Tutorial\\Areas\\Admin\\Views\\Order\\Index.cshtml",
+              "RelativeToolTip": "Shopping_Tutorial\\Areas\\Admin\\Views\\Order\\Index.cshtml",
+              "ViewState": "AgIAADAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-17T13:14:17.242Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Detail.cshtml",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\Back-End\\Shopping_Tutorial_Identity\\Shopping_Tutorial\\Views\\Product\\Detail.cshtml",
+              "RelativeDocumentMoniker": "Shopping_Tutorial\\Views\\Product\\Detail.cshtml",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\Back-End\\Shopping_Tutorial_Identity\\Shopping_Tutorial\\Views\\Product\\Detail.cshtml",
+              "RelativeToolTip": "Shopping_Tutorial\\Views\\Product\\Detail.cshtml",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-17T13:11:21.886Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Search.cshtml",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\Back-End\\Shopping_Tutorial_Identity\\Shopping_Tutorial\\Views\\Product\\Search.cshtml",
+              "RelativeDocumentMoniker": "Shopping_Tutorial\\Views\\Product\\Search.cshtml",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\Back-End\\Shopping_Tutorial_Identity\\Shopping_Tutorial\\Views\\Product\\Search.cshtml",
+              "RelativeToolTip": "Shopping_Tutorial\\Views\\Product\\Search.cshtml",
+              "ViewState": "AgIAACoAAAAAAAAAAAAAABAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-17T13:11:21.166Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\Back-End\\Shopping_Tutorial_Identity\\Shopping_Tutorial\\Views\\Product\\Index.cshtml",
+              "RelativeDocumentMoniker": "Shopping_Tutorial\\Views\\Product\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\Back-End\\Shopping_Tutorial_Identity\\Shopping_Tutorial\\Views\\Product\\Index.cshtml",
+              "RelativeToolTip": "Shopping_Tutorial\\Views\\Product\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-17T13:11:19.656Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\Back-End\\Shopping_Tutorial_Identity\\Shopping_Tutorial\\Areas\\Admin\\Views\\Product\\Index.cshtml",
+              "RelativeDocumentMoniker": "Shopping_Tutorial\\Areas\\Admin\\Views\\Product\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\Back-End\\Shopping_Tutorial_Identity\\Shopping_Tutorial\\Areas\\Admin\\Views\\Product\\Index.cshtml",
+              "RelativeToolTip": "Shopping_Tutorial\\Areas\\Admin\\Views\\Product\\Index.cshtml",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-17T13:11:02.15Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\Back-End\\Shopping_Tutorial_Identity\\Shopping_Tutorial\\Areas\\Admin\\Views\\Product\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Shopping_Tutorial\\Areas\\Admin\\Views\\Product\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\Back-End\\Shopping_Tutorial_Identity\\Shopping_Tutorial\\Areas\\Admin\\Views\\Product\\Edit.cshtml",
+              "RelativeToolTip": "Shopping_Tutorial\\Areas\\Admin\\Views\\Product\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-17T13:11:01.355Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\Back-End\\Shopping_Tutorial_Identity\\Shopping_Tutorial\\Areas\\Admin\\Views\\Product\\Create.cshtml",
+              "RelativeDocumentMoniker": "Shopping_Tutorial\\Areas\\Admin\\Views\\Product\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\Back-End\\Shopping_Tutorial_Identity\\Shopping_Tutorial\\Areas\\Admin\\Views\\Product\\Create.cshtml",
+              "RelativeToolTip": "Shopping_Tutorial\\Areas\\Admin\\Views\\Product\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-17T13:11:00.605Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "AddQuantity.cshtml",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\Back-End\\Shopping_Tutorial_Identity\\Shopping_Tutorial\\Areas\\Admin\\Views\\Product\\AddQuantity.cshtml",
+              "RelativeDocumentMoniker": "Shopping_Tutorial\\Areas\\Admin\\Views\\Product\\AddQuantity.cshtml",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\Back-End\\Shopping_Tutorial_Identity\\Shopping_Tutorial\\Areas\\Admin\\Views\\Product\\AddQuantity.cshtml",
+              "RelativeToolTip": "Shopping_Tutorial\\Areas\\Admin\\Views\\Product\\AddQuantity.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-17T13:10:59.853Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "CategoryController.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\Back-End\\Shopping_Tutorial_Identity\\Shopping_Tutorial\\Areas\\Admin\\Controllers\\CategoryController.cs",
+              "RelativeDocumentMoniker": "Shopping_Tutorial\\Areas\\Admin\\Controllers\\CategoryController.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\Back-End\\Shopping_Tutorial_Identity\\Shopping_Tutorial\\Areas\\Admin\\Controllers\\CategoryController.cs",
+              "RelativeToolTip": "Shopping_Tutorial\\Areas\\Admin\\Controllers\\CategoryController.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-17T13:10:48.652Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ContactController.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\Back-End\\Shopping_Tutorial_Identity\\Shopping_Tutorial\\Areas\\Admin\\Controllers\\ContactController.cs",
+              "RelativeDocumentMoniker": "Shopping_Tutorial\\Areas\\Admin\\Controllers\\ContactController.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\Back-End\\Shopping_Tutorial_Identity\\Shopping_Tutorial\\Areas\\Admin\\Controllers\\ContactController.cs",
+              "RelativeToolTip": "Shopping_Tutorial\\Areas\\Admin\\Controllers\\ContactController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-17T13:10:47.886Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "CouponController.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\Back-End\\Shopping_Tutorial_Identity\\Shopping_Tutorial\\Areas\\Admin\\Controllers\\CouponController.cs",
+              "RelativeDocumentMoniker": "Shopping_Tutorial\\Areas\\Admin\\Controllers\\CouponController.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\Back-End\\Shopping_Tutorial_Identity\\Shopping_Tutorial\\Areas\\Admin\\Controllers\\CouponController.cs",
+              "RelativeToolTip": "Shopping_Tutorial\\Areas\\Admin\\Controllers\\CouponController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-17T13:10:47.324Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "DashboardController.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\Back-End\\Shopping_Tutorial_Identity\\Shopping_Tutorial\\Areas\\Admin\\Controllers\\DashboardController.cs",
+              "RelativeDocumentMoniker": "Shopping_Tutorial\\Areas\\Admin\\Controllers\\DashboardController.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\Back-End\\Shopping_Tutorial_Identity\\Shopping_Tutorial\\Areas\\Admin\\Controllers\\DashboardController.cs",
+              "RelativeToolTip": "Shopping_Tutorial\\Areas\\Admin\\Controllers\\DashboardController.cs",
+              "ViewState": "AgIAAEgAAAAAAAAAAAAowAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-17T13:10:43.852Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "OrderController.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\Back-End\\Shopping_Tutorial_Identity\\Shopping_Tutorial\\Areas\\Admin\\Controllers\\OrderController.cs",
+              "RelativeDocumentMoniker": "Shopping_Tutorial\\Areas\\Admin\\Controllers\\OrderController.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\Back-End\\Shopping_Tutorial_Identity\\Shopping_Tutorial\\Areas\\Admin\\Controllers\\OrderController.cs",
+              "RelativeToolTip": "Shopping_Tutorial\\Areas\\Admin\\Controllers\\OrderController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-17T13:10:39.5Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\Back-End\\Shopping_Tutorial_Identity\\Shopping_Tutorial\\Areas\\Admin\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "Shopping_Tutorial\\Areas\\Admin\\Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\Back-End\\Shopping_Tutorial_Identity\\Shopping_Tutorial\\Areas\\Admin\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "Shopping_Tutorial\\Areas\\Admin\\Controllers\\ProductController.cs",
+              "ViewState": "AgIAAMMAAAAAAAAAAAAIwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-17T13:10:36.523Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "RoleController.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\Back-End\\Shopping_Tutorial_Identity\\Shopping_Tutorial\\Areas\\Admin\\Controllers\\RoleController.cs",
+              "RelativeDocumentMoniker": "Shopping_Tutorial\\Areas\\Admin\\Controllers\\RoleController.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\Back-End\\Shopping_Tutorial_Identity\\Shopping_Tutorial\\Areas\\Admin\\Controllers\\RoleController.cs",
+              "RelativeToolTip": "Shopping_Tutorial\\Areas\\Admin\\Controllers\\RoleController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-17T13:10:35.49Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ShippingController.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\Back-End\\Shopping_Tutorial_Identity\\Shopping_Tutorial\\Areas\\Admin\\Controllers\\ShippingController.cs",
+              "RelativeDocumentMoniker": "Shopping_Tutorial\\Areas\\Admin\\Controllers\\ShippingController.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\Back-End\\Shopping_Tutorial_Identity\\Shopping_Tutorial\\Areas\\Admin\\Controllers\\ShippingController.cs",
+              "RelativeToolTip": "Shopping_Tutorial\\Areas\\Admin\\Controllers\\ShippingController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-17T13:10:34.408Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "SliderController.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\Back-End\\Shopping_Tutorial_Identity\\Shopping_Tutorial\\Areas\\Admin\\Controllers\\SliderController.cs",
+              "RelativeDocumentMoniker": "Shopping_Tutorial\\Areas\\Admin\\Controllers\\SliderController.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\Back-End\\Shopping_Tutorial_Identity\\Shopping_Tutorial\\Areas\\Admin\\Controllers\\SliderController.cs",
+              "RelativeToolTip": "Shopping_Tutorial\\Areas\\Admin\\Controllers\\SliderController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-17T13:10:32.247Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\Back-End\\Shopping_Tutorial_Identity\\Shopping_Tutorial\\Views\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "Shopping_Tutorial\\Views\\Account\\Login.cshtml",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\Back-End\\Shopping_Tutorial_Identity\\Shopping_Tutorial\\Views\\Account\\Login.cshtml",
+              "RelativeToolTip": "Shopping_Tutorial\\Views\\Account\\Login.cshtml",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-30T01:43:35.95Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\Back-End\\Shopping_Tutorial_Identity\\Shopping_Tutorial\\Areas\\Admin\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "Shopping_Tutorial\\Areas\\Admin\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\Back-End\\Shopping_Tutorial_Identity\\Shopping_Tutorial\\Areas\\Admin\\Controllers\\UserController.cs",
+              "RelativeToolTip": "Shopping_Tutorial\\Areas\\Admin\\Controllers\\UserController.cs",
+              "ViewState": "AgIAAL4AAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-30T01:43:19.952Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\Back-End\\Shopping_Tutorial_Identity\\Shopping_Tutorial\\Program.cs",
+              "RelativeDocumentMoniker": "Shopping_Tutorial\\Program.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\Back-End\\Shopping_Tutorial_Identity\\Shopping_Tutorial\\Program.cs",
+              "RelativeToolTip": "Shopping_Tutorial\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-30T01:35:01.056Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "IEmailSender.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\Back-End\\Shopping_Tutorial_Identity\\Shopping_Tutorial\\Areas\\Admin\\Repository\\Momo\\IEmailSender.cs",
+              "RelativeDocumentMoniker": "Shopping_Tutorial\\Areas\\Admin\\Repository\\Momo\\IEmailSender.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\Back-End\\Shopping_Tutorial_Identity\\Shopping_Tutorial\\Areas\\Admin\\Repository\\Momo\\IEmailSender.cs",
+              "RelativeToolTip": "Shopping_Tutorial\\Areas\\Admin\\Repository\\Momo\\IEmailSender.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-30T01:17:16.035Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "EmailSender.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\Back-End\\Shopping_Tutorial_Identity\\Shopping_Tutorial\\Areas\\Admin\\Repository\\Momo\\EmailSender.cs",
+              "RelativeDocumentMoniker": "Shopping_Tutorial\\Areas\\Admin\\Repository\\Momo\\EmailSender.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\Back-End\\Shopping_Tutorial_Identity\\Shopping_Tutorial\\Areas\\Admin\\Repository\\Momo\\EmailSender.cs",
+              "RelativeToolTip": "Shopping_Tutorial\\Areas\\Admin\\Repository\\Momo\\EmailSender.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-30T01:17:10.398Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "BrandController.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\Back-End\\Shopping_Tutorial_Identity\\Shopping_Tutorial\\Areas\\Admin\\Controllers\\BrandController.cs",
+              "RelativeDocumentMoniker": "Shopping_Tutorial\\Areas\\Admin\\Controllers\\BrandController.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\Back-End\\Shopping_Tutorial_Identity\\Shopping_Tutorial\\Areas\\Admin\\Controllers\\BrandController.cs",
+              "RelativeToolTip": "Shopping_Tutorial\\Areas\\Admin\\Controllers\\BrandController.cs",
+              "ViewState": "AgIAAIAAAAAAAAAAAAAswAsAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-30T01:16:08.808Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\Back-End\\Shopping_Tutorial_Identity\\Shopping_Tutorial\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Shopping_Tutorial\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\Back-End\\Shopping_Tutorial_Identity\\Shopping_Tutorial\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Shopping_Tutorial\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAFoAAAAAAAAAAIBJwHMAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-16T02:18:00.154Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Default.cshtml",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\Back-End\\Shopping_Tutorial_Identity\\Shopping_Tutorial\\Views\\Shared\\Components\\Categories\\Default.cshtml",
+              "RelativeDocumentMoniker": "Shopping_Tutorial\\Views\\Shared\\Components\\Categories\\Default.cshtml",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\Back-End\\Shopping_Tutorial_Identity\\Shopping_Tutorial\\Views\\Shared\\Components\\Categories\\Default.cshtml",
+              "RelativeToolTip": "Shopping_Tutorial\\Views\\Shared\\Components\\Categories\\Default.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-28T14:10:26.709Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Default.cshtml",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\Back-End\\Shopping_Tutorial_Identity\\Shopping_Tutorial\\Views\\Shared\\Components\\Brands\\Default.cshtml",
+              "RelativeDocumentMoniker": "Shopping_Tutorial\\Views\\Shared\\Components\\Brands\\Default.cshtml",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\Back-End\\Shopping_Tutorial_Identity\\Shopping_Tutorial\\Views\\Shared\\Components\\Brands\\Default.cshtml",
+              "RelativeToolTip": "Shopping_Tutorial\\Views\\Shared\\Components\\Brands\\Default.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-28T14:10:23.587Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "_SidebarPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\Back-End\\Shopping_Tutorial_Identity\\Shopping_Tutorial\\Views\\Shared\\_SidebarPartial.cshtml",
+              "RelativeDocumentMoniker": "Shopping_Tutorial\\Views\\Shared\\_SidebarPartial.cshtml",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\Back-End\\Shopping_Tutorial_Identity\\Shopping_Tutorial\\Views\\Shared\\_SidebarPartial.cshtml",
+              "RelativeToolTip": "Shopping_Tutorial\\Views\\Shared\\_SidebarPartial.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-28T13:58:34.727Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\Back-End\\Shopping_Tutorial_Identity\\Shopping_Tutorial\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Shopping_Tutorial\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\Back-End\\Shopping_Tutorial_Identity\\Shopping_Tutorial\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Shopping_Tutorial\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAACcAAAAAAAAAAAAAABIAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-12T14:36:13.604Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "main.css",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\Back-End\\Shopping_Tutorial_Identity\\Shopping_Tutorial\\wwwroot\\css\\main.css",
+              "RelativeDocumentMoniker": "Shopping_Tutorial\\wwwroot\\css\\main.css",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\Back-End\\Shopping_Tutorial_Identity\\Shopping_Tutorial\\wwwroot\\css\\main.css",
+              "RelativeToolTip": "Shopping_Tutorial\\wwwroot\\css\\main.css",
+              "ViewState": "AgIAACQKAAAAAAAAAADwvzsKAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-11-05T09:56:07.457Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
